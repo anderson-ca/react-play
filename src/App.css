@@ -1,1 +1,9 @@
-
+.App {
+    border: solid 1px red;
+    margin: 0px;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
